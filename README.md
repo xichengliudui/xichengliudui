@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 
 ![xichengliudui github stats](https://github-readme-stats.vercel.app/api?username=xichengliudui&count_private=true&show_icons=true&theme=radical)
 
+## 📈 GitHub 统计
+![xichengliudui stats](https://github-readme-stats.vercel.app/api?username=xichengliudui&show_icons=true&theme=radical)
 
